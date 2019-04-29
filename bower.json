@@ -1,5 +1,5 @@
 {
-  "name": "webduino-module-CarTracker",
+  "name": "webduino-module-cartracker",
   "description": "CarTracker Module for Webduino",
   "main": "CarTracker.js",
   "authors": "",
