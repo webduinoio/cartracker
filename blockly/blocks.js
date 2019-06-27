@@ -131,7 +131,7 @@ Blockly.Blocks['cartracker_track_do'] = {
           [Blockly.Msg.WEBDUINO_CARTRACKER_STOP,"0"]
       ]), "direction_");
     this.appendStatementInput("do")
-        .appendField(Blockly.Msg.WEBDUINO_SHT31_DO, "執行");
+        .appendField(Blockly.Msg.WEBDUINO_CARTRACKER_DO, "執行");
     this.setPreviousStatement(true);
     this.setNextStatement(true);
     this.setColour(195);
